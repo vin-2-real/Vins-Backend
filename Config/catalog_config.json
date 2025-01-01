@@ -1,0 +1,35 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+        "itemGrants": ["AthenaGlider:Glider_Prismatic"],
+        "price": 800
+    },
+    "daily2": {
+        "itemGrants": ["AthenaPickaxe:Pickaxe_ID_376_FNCS"],
+        "price": 0
+    },
+    "daily3": {
+        "itemGrants": [""],
+        "price": 0
+    },
+    "daily4": {
+        "itemGrants": [""],
+        "price": 0
+    },
+    "daily5": {
+        "itemGrants": ["AthenaCharacter:CID_017_Athena_Commando_M"],
+        "price": 1200
+    },
+    "daily6": {
+        "itemGrants": ["AthenaGlider:Glider_ID_001"],
+        "price": 500
+    },
+    "featured1": {
+        "itemGrants": ["AthenaPickaxe:Pickaxe_Lockjaw"],
+        "price": 1500
+    },
+    "featured2": {
+        "itemGrants": ["AthenaCharacter:CID_028_Athena_Commando_F"],
+        "price": 1200
+    }
+}
