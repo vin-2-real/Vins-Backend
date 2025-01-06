@@ -6,7 +6,7 @@ My Discord [Discord](https://discord.gg/CYvH9Tak2X)
 ## Installation
 
 Go To Releases And Click On The Vins.Backend.zip
-NOT THE SOURCE CODE ONES THEY ARE V1
+NOT THE SOURCE CODE ONES THEY ARE V1 after that run Vins Backend the exe not the bat file!
 
 ## Features
 
