@@ -16,11 +16,12 @@ NOT THE SOURCE CODE ONES THEY ARE V1 after that run Vins Backend the exe not the
 
 
 <div align="center">
+    
 <img>
     width="340"
     height="192"
-    frameborder="0"
-    sandbox="allow-scripts"
     src="https://widgets.vendicated.dev/user?id=1146498033870192801&theme=dark&banner=true&full-banner=true&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23fff&foreground-color=%23000000"
+    
 </img>
+
 </div>
